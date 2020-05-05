@@ -1,0 +1,2 @@
+# ndeko
+my first github
